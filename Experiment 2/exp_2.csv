@@ -1,0 +1,5 @@
+Project,Point1,Point2,Point3,Point4,Point5,Description
+V_AB_Original(V),1.69,2.32,2.65,2.85,2.99,表格1:原始含源二端网络的输出电压VAB(单位:V)
+Direct_Measure,3.71,3.0,1210.0,1236.7,请在此行对应填入:开路电压、短路电流、半压法R0、计算法R0
+V_AB_Thevenin(V),1.68,2.32,2.65,2.86,3.00,表格3:戴维南等效电路的输出电压VAB(单位:V)
+V_AB_Norton(V),1.65,2.27,2.60,2.80,2.94,表格4:诺顿等效电路的输出电压VAB(单位:V)
