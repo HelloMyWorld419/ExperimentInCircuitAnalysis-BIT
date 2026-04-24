@@ -36,6 +36,7 @@ ExperimentInCircuitAnalysis-BIT/
 │   └── exp_2_final_report.txt         # 生成：拟合结果与验证结论
 ├── .gitignore                         # 忽略生成的图片和临时文件
 └── README.md                          # 项目说明文档（本文件）
+```
 ---
 
 ## 🛠️ 基本工具包准备：
