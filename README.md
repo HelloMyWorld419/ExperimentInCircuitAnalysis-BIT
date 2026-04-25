@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib scipy os
 * **2. 数据录入**
 进入对应实验文件夹（如 Experiment 1/）。
 
-使用 Excel 或文本编辑器打开 exp_1.csv。
+使用 Excel 或文本编辑器打开 exp_1.csv （或data.csv）。
 
 ⚠️ 重要：严禁修改第一行（列标题）以及 Project 列中的关键词（脚本通过硬编码关键词定位数据行）。
 
@@ -77,3 +77,5 @@ python main.py
 图片文件（.png）：已按要求绘制的特性曲线图，可直接插入实验报告。
 
 报告文本（.txt）：包含计算出的拟合参数、误差分析和结论模板，可直接复制到纸质报告对应位置。
+
+具体内容参照每个实验文件夹下的README.txt文件指导

@@ -1,0 +1,6 @@
+Parameter,Value,Unit,Note
+R_critical_zero_state,699,Ω,零状态临界阻值（实测）
+R_critical_zero_input,699,Ω,零输入临界阻值（实测）
+u1m,1.12,V,第一个波峰电压值
+u2m,0.24,V,第二个波峰电压值
+Td,30,μs,振荡周期
